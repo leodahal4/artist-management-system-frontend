@@ -1,5 +1,5 @@
 <template>
-  <v-app-bar dense color="light-blue">
+  <v-app-bar dense color="primary">
     <v-app-bar-title>
       <v-icon icon="mdi-music" />
       All In One Music
